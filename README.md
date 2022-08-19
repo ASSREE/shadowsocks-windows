@@ -1,5 +1,4 @@
-<img src="Shadowsocks.WPF/Resources/ssw128.png" alt="[logo]" width="48"/> I fallin love with someone who don't attention me;
-
+<img src="Shadowsocks.WPF/Resources/ssw128.png" alt="[logo]" width="48"/> I fallin love with someone who don't attention me
 =======================
 
 [![Build](https://github.com/shadowsocks/shadowsocks-windows/workflows/Build/badge.svg)](https://github.com/shadowsocks/shadowsocks-windows/actions?query=workflow%3ABuild)
